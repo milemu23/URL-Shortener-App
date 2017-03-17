@@ -3,7 +3,7 @@
 const generator = require('../../../modules/generator');
 // import test data
 const url = require('../../../models/url');
-const util = require('../../../modules/utility-tool.js');
+const util = require('munk-tool');
 
 module.exports = (express) => {
   const router = express.Router();

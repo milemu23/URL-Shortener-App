@@ -164,31 +164,6 @@ RESULTS:
 ```sh
 DELETED
 ```
-# Usage
-
-##Debugging
-###Logs will be found in ./log file
-
-## start up server in debug mode
-```sh
-DEBUG=true nodemon src/server.js
-```
-
-## start up server without debug mode
-```sh
-nodemon src/server.js
-```
-
-## Message Example
-```sh
-success
-*********DEBUG*********
-Server is using
-*********DEBUG*********
- Object: "3000"
-
-TIME: 3/9/2017, 9:23:10 PM
-```
 
 # ESLINT Installation
 [Resource - Getting Started with ESLint](http://devnull.guru/get-started-with-eslint/)
