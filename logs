@@ -1,0 +1,16 @@
+
+success 
+*********DEBUG*********
+Server is using
+*********DEBUG*********
+ Object: "3000" 
+
+TIME: 3/16/2017, 9:48:30 PM
+
+success 
+*********DEBUG*********
+We got 'em all!!
+*********DEBUG*********
+ Object: "[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url]" 
+
+TIME: 3/16/2017, 9:48:55 PM
