@@ -239,3 +239,21 @@ npm install chai --save-dev
 ```
 DEBUG=true mocha
 ```
+
+# Deployment
+## Use PM2 to run server
+```
+pm2 start src/server.js
+```
+## Commit changes to Git
+```
+git commit -m "Changes"
+```
+## Push to ProductionServer that is setup on VPS - Digital Ocean
+```
+git push ProductionServer
+```
+## Restart Nginx
+```
+sudo service nginx restart
+```
