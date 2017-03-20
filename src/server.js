@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({
 app.use('/', require('./routes')(express));
 
 // configuration
-const port = process.env.PORT || 80;
+const port = process.env.PORT || 3000;
 // export server to use with other modules
 exports.server = app.listen(port, () => {
   util.debug('Server is using', port, 'success');
