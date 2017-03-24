@@ -1,4 +1,4 @@
-# URL-Shortener
+# URL-Shortener-App
 Deployment of Web Applications
 
 # Installation
