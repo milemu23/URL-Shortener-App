@@ -113,7 +113,7 @@ RESULTS:
   }
 ]
 ```
-##  TO GET ONE URL BY ID:
+##  TO GET URL BY ID:
 Select Method GET
 ```sh
 enter localhost:3000/api/v1/urls/2
