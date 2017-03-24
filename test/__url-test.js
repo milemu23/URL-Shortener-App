@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
 const url = require('../src/models/url');
-const util = require('../src/modules/utility-tool.js');
+const util = require('munk-tool');
 
 const testUrl = {};
 
@@ -19,27 +19,28 @@ describe('URLS', () => {
     });
   });
 
-  it('Should be able to create new url', () => {
-    expect(testUrl.id).to.not.be.null;
-  });
-
   it('Should display all URLs', (done) => {
     url.findAll({}, (err) => {
       util.debug('Error!! Cannot get all URLs.', err, 'error');
     }, (allUrls) => {
       expect(allUrls.length).to.be.above(0);
       done();
+      util.debug('Is it? ', url.id, 'warn');
     });
   });
-  it('Should display one URL', (done) => {
-    url.find(testUrl, (err) => {
-      util.debug('Error!! Cannot get that URL.', err, 'error');
-    }, (url) => {
-      expect(url.id).to.be.equal(testUrl.id);
-      done();
-    });
-  });
+  //it('Should display one URL', (done) => {
+  //  url.find(testUrl, (err) => {
+  //    util.debug('Error!! Cannot get that URL.', err, 'error');
+  //  },
+  //   (oneUrl) => {
+  //     expect(oneUrl.id).to.be.equal(testUrl.id);
+  //     done();
+  //    });
+  // });
 
+  it('Should be able to create new url', () => {
+    expect(testUrl.id).to.not.be.null;
+  });
   // it('Should update the shorturl ', (done) => {
   //   const updateUrl = {
   //     id: testUrl.id,

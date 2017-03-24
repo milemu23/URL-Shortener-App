@@ -30,3 +30,163 @@ We got 'em all!!
  Object: "[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url]" 
 
 TIME: 3/16/2017, 9:51:43 PM
+
+success 
+*********DEBUG*********
+Server is using
+*********DEBUG*********
+ Object: "4000" 
+
+TIME: 3/23/2017, 7:47:28 PM
+
+success 
+*********DEBUG*********
+Server is using
+*********DEBUG*********
+ Object: "3000" 
+
+TIME: 3/23/2017, 7:47:55 PM
+
+success 
+*********DEBUG*********
+We got 'em all!!
+*********DEBUG*********
+ Object: "[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url],[object SequelizeInstance:url]" 
+
+TIME: 3/23/2017, 7:48:04 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:49:16 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:50:24 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:53:51 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:54:15 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:55:28 PM
+
+warn 
+*********DEBUG*********
+Is it? 
+*********DEBUG*********
+ Object: "[object Object]" 
+
+TIME: 3/23/2017, 7:56:17 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:56:17 PM
+
+warn 
+*********DEBUG*********
+Is it? 
+*********DEBUG*********
+ Object: "undefined" 
+
+TIME: 3/23/2017, 7:56:32 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:56:32 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:57:02 PM
+
+warn 
+*********DEBUG*********
+Is it? 
+*********DEBUG*********
+ Object: "undefined" 
+
+TIME: 3/23/2017, 7:59:56 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 7:59:56 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 8:00:19 PM
+
+warn 
+*********DEBUG*********
+Is it? 
+*********DEBUG*********
+ Object: "undefined" 
+
+TIME: 3/23/2017, 8:01:02 PM
+
+error 
+*********DEBUG*********
+Error!! Cannot get that URL.
+*********DEBUG*********
+ Object: "TypeError: Cannot read property 'id' of null" 
+
+TIME: 3/23/2017, 8:01:02 PM
+
+warn 
+*********DEBUG*********
+Is it? 
+*********DEBUG*********
+ Object: "undefined" 
+
+TIME: 3/23/2017, 8:01:21 PM
+
+warn 
+*********DEBUG*********
+Is it? 
+*********DEBUG*********
+ Object: "undefined" 
+
+TIME: 3/23/2017, 8:02:28 PM
