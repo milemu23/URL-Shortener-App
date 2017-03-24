@@ -130,7 +130,7 @@ RESULTS:
   "updatedAt": "2017-03-06T02:53:38.000Z"
 }
 ```
-##  TO UPDATE ONE URL:
+##  TO UPDATE URL:
 Select Method POST
 ```sh
 enter localhost:3000/api/v1/urls/2
